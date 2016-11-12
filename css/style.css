@@ -1,0 +1,78 @@
+
+
+.top-border{
+	content: "";
+
+	background-color: #009688;
+	background-image: url("images/clockinnlogo.png");
+	margin-top: 0;
+	background-repeat: no-repeat;
+	z-index: -1;   
+}
+
+
+img{
+
+	opacity: 0.5;
+	background-color: #009688;
+}
+
+
+.nom{
+
+	margin:0;
+}
+
+.top-customerform{
+	content: "";
+
+	background-color: #00bfa5;
+	background-image: url("images/clockinnlogo.png");
+
+	background-repeat: no-repeat;
+	z-index: -1;   
+}
+
+.cuz{
+
+	background-color: #00bfa5;
+}
+
+.cuz-icon{
+
+
+	color:#00bfa5;
+}
+.cardCustom {
+	position: relative;
+	margin: 0.0rem 0 1rem 0;
+	background-color: #fff;
+	transition: box-shadow .25s;
+	border-radius: 2px;
+}
+
+.menu-button{
+
+
+	background-color:  #78909c;
+	border-radius: 1px;
+
+	height: 20%;
+	padding: 10px;
+}
+
+.menu-button:hover{
+	background-color: #00b8d4 ;
+
+}
+
+nav .input-field label i {
+  color: red;
+  transition: color .3s;
+}
+
+.tablebtn{
+    
+    
+    border-radius: 0;
+}
